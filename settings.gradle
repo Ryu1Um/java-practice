@@ -1,0 +1,4 @@
+rootProject.name = "java-practice"
+
+include("tomcat-app")
+include("netty-app")
