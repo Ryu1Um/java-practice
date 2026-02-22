@@ -1,4 +1,4 @@
-package com.example.pattern;
+package com.example.pattern.adapter;
 
 import com.example.dto.TaskData;
 
